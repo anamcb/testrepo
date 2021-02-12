@@ -1,0 +1,267 @@
+1. A New Era of Computing
+
+Thomas Malone, director of the MIT Center for Collective Intelligence, 
+says the big question for researchers as this era unfolds is: 
+How can people and computers be connected so that collectively they act 
+more intelligently than any person, group, or computer has ever done before? 
+This avenue of thought stretches back to the computing pioneer J. C. R. Licklider,
+who led the U.S. government project that evolved into the Internet.
+
+In 1960 he authored a paper, “Man-Computer Symbiosis,” where he predicted 
+that “in not too many years, human brains and computing machines will be 
+coupled together very tightly and the resulting partnership will think as 
+no human brain has ever thought and process data in a way not approached 
+by the information-handling machines we know today.” That time is fast approaching.
+
+The new era of computing is not just an opportunity for
+society; it’s also a necessity. Only with the help of thinking
+machines will we be able to deal adequately with the exploding
+complexity of today’s world and successfully address interlocking
+problems like disease and poverty and stress on our natural
+systems.
+
+This model of computing—in which
+every step and scenario is determined in advance by a
+person—can’t keep up with the world’s evolving social and
+business dynamics or deliver on its potential. The emergence of
+social networking, sensor networks, and huge storehouses of
+business, scientific, and government records creates an abundance
+of information that technology leaders call “big data.”
+
+In the cognitive era, using the new tools of decision science, we will be able to
+apply new kinds of computing power to huge volumes of data and
+achieve deeper insight into how things really work. Armed with
+those insights, we can develop strategies and design systems for
+achieving the best outcomes—taking into account the effects of
+the variable and the unknowable. Think of big data as a natural
+resource waiting to be mined. And in order to tap this vast
+resource, we need computers that “think” and interact more like
+we do.
+
+The human brain evolved over millions of years to become
+a remarkable instrument of cognition. We are capable of sorting
+through multitudes of sensory impressions in the blink of an eye.
+
+With the exception of robots, tomorrow’s computers won’t
+need to navigate in the world the way humans do. But to help
+us think better they will need the underlying humanlike
+characteristics—learning, adapting, interacting, and some form of
+understanding—that make human navigation possible. New
+cognitive systems will extract insights from data sources that are
+almost totally opaque today, such as population-wide health-care
+records, or from new sources of information, such as sensors
+monitoring pollution in delicate marine environments. Such
+systems will still sometimes be programmed by people using “if
+A, then B” logic, but programmers won’t have to anticipate every
+procedure and every rule. Instead, computers will be equipped
+with interpretive capabilities that will let them learn from the
+data and adapt over time as they gain new knowledge or as the
+demands on them change.
+
+But the goal is not to replicate human brains or replace
+human thinking with machine thinking. Rather, in the era of
+cognitive systems, humans and machines will collaborate to
+produce better results, each bringing its own skills to the
+partnership. The machines will be more rational and analytic—and,
+of course, possess encyclopedic memories and tremendous
+computational abilities. People will provide judgment, intuition,
+empathy, a moral compass, and human creativity.
+
+To understand what’s different about this new era, it helps to
+compare it to the two previous eras in the evolution of information
+technology. The tabulating era began in the nineteenth century
+and continued into the 1940s. The
+programmable computing era—today’s technologies—emerged in
+the 1940s.
+
+Tomorrow’s cognitive systems will be fundamentally
+different from the machines that preceded them. While traditional
+computers must be programmed by humans to perform specific
+tasks, cognitive systems will learn from their interactions with
+data and humans and be able to, in a sense, program themselves
+to perform new tasks.
+
+Traditional computers are designed to
+calculate rapidly; cognitive systems will be designed to draw
+inferences from data and pursue the objectives they were given. 
+Traditional computers have only rudimentary sensing capabilities,
+such as license-plate-reading systems on toll roads. Cognitive
+systems will be able to sense more like humans do. They’ll
+augment our hearing, sight, taste, smell, and touch. In the
+programmable-computing era, people have to adapt to the way
+computers work. In the cognitive era, computers will adapt to
+people. They’ll interact with us in ways that are natural to us.
+
+Von Neumann’s architecture has persisted for such a long
+time because it provides a powerful means of performing many
+computing tasks. His scheme called for the processing of data via
+calculations and the application of logic in a central processing
+A New Era of Computing 9
+unit.
+
+But the design has a flaw that makes it inefficient: the von
+Neumann bottleneck. Each element of the process requires
+multiple steps where data and instructions are moved back and
+forth between memory and the CPU. That requires a tremendous
+amount of data movement and processing. It also means that
+discrete processing tasks have to be completed linearly, one at a
+time. For decades, computer scientists have been able to rapidly
+increase the capabilities of central processing units by making
+them smaller and faster. But we’re reaching the limits of our ability
+to make those gains at a time when we need even more computing
+power to deal with complexity and big data. And that’s putting
+unbearable demands on today’s computing technologies—mainly
+because today’s computers require so much energy to perform
+their work.
+
+What’s needed is a new architecture for computing, one that
+takes more inspiration from the human brain. Data processing
+should be distributed throughout the computing system rather
+than concentrated in a CPU. The processing and the memory
+should be closely integrated to reduce the shuttling of data and
+instructions back and forth. And discrete processing tasks should
+be executed simultaneously rather than serially. A cognitive
+computer employing these systems will respond to inquires more quickly 
+than today’s computers; less data movement will be
+required and less energy will be used. Today’s von Neumann–style
+computing won’t go away when cognitive systems come online.
+New chip and computing technologies will extend its life far into
+the future. In many cases, the cognitive architecture and the von
+Neumann architecture will be employed side by side in hybrid
+systems. Traditional computing will become ever more capable
+while cognitive technologies will do things that were not possible
+before.
+
+Today, a handful of technologies are getting a tremendous
+amount of buzz, including the cloud, social networking, mobile,
+and new ways to interact with computing from tablets to glasses.
+These new technologies will fuel the requirement and desire for
+cognitive systems that will, for example, both harvest insights
+from social networks and enhance our experiences within them.
+
+-- How Cognitive Systems Will Help Us Think: As smart as human beings are, there are many things that we
+can’t do or that we could do better. Cognitive systems in many cases help us overcome our limitations.
+
+	Complexity: With cognitive computing, we will be able to harvest insights from huge
+quantities of data to understand complex situations, make accurate
+predictions about the future, and anticipate the unintended
+consequences of actions. City mayors, for instance, will be able to understand the
+interrelationships among the subsystems within their cities.
+
+	Expertise: With the help of cognitive systems, we will be able to see the
+big picture and make better decisions. This is especially important
+when we’re trying to address problems that cut across intellectual
+and industrial domains. For instance, police will be able to gather
+crime statistics and combine them with information about
+demographics, events, blueprints, economic activity, and weather
+to produce better analysis and safer cities.
+
+	Objectivity: We all possess biases based on our personal experiences,
+egos, and intuition about what works and what doesn’t, as well
+as the influence group dynamics. Cognitive systems can make
+it possible for us to be more objective in our decision making. Corporations may evolve into 
+“conscious organizations” made up of humans and systems in collaboration.
+
+	Imaginations: Because of our prejudices, we have difficulty envisioning
+things that are dramatically different than what we’re familiar
+with. Cognitive systems will help us discover and explore new
+and contrarian ideas. A chemical or pharmaceutical company’s
+research-and-development team might use a cognitive system to
+explore combinations of molecules or even individual atoms that
+have not been contemplated before. With the aid
+of cognitive machines, researchers and engineers will be able to
+explore millions of combinations in ways that are economical with
+both time and money.
+
+	Senses: We can only take in and make sense of so much raw, physical
+information. With cognitive systems, computer sensors teamed
+with analytics software will vastly extend our ability to gather
+and process such information. Imagine a world where individuals
+carry their own personalWatson in the form of a handheld device.
+These personal cognitive assistants will carry on conversations
+with us that will make the speech technology in today’s
+smartphones seem like baby talk. They will acquire knowledge
+about us, in part, from observing what we see, say, touch, and
+type on our electronic devices—so they can better anticipate our
+wishes. In addition, the assistant will be able to use sophisticated
+sensing to monitor a person’s health and threats to her well-being.
+
+Over time, humans have evolved to be more successful as a species. We continually adapt
+to overcome our limitations. This partnership with computers is
+simply the latest step in a long process of adaptation.
+
+The uses for cognitive computing will be nearly limitless—a
+veritable playground for the human imagination. Think of any
+activity that involves a lot of complexity, many variables, a great
+deal of uncertainty, and incomplete information and that requires
+a high level of expertise and rapid decision making. That activity
+is going to be a fat target for cognitive technologies. Just as the personal computer, 
+the Internet, mobile communications, and
+social networking have given rise to tens of thousands of software
+applications, Web services, and smartphone apps, the cognitive
+era will produce a similar explosion of creativity. Think of the
+coming technologies as cognitive apps.
+
+-- Technology Breakthroughs: Opportunities and Necessities: Much of the progress in science and technology comes in
+small increments. Scientists and engineers build on top of the innovations that came before. There’s nothing wrong with incremental innovation. It’s
+absolutely necessary, and, sometimes, its results are both
+delightful and transformational.
+
+“In a sense, everything we’ve done up until this
+point has been easy,” he says. “Now we have reached a physicsdominated
+threshold in the design of microprocessors and
+computing systems which, unless we do something about it, is
+essentially going to stagnate progress.”7 We need more radical
+innovations. In the years ahead, a number of fundamental
+advances in science and technology will be required to make
+progress. Think of those colorful Russian wooden dolls where
+progressively smaller dolls nest inside slightly larger ones. We
+need to achieve technology advances in layers. 
+
+The top layer is the way we interact with computers and get
+them to do what we want. The big innovation at this outer layer is “learning systems". The goal is to create machines that do not require as much
+programming by humans. Instead they’ll be “taught” by people,
+who will set objectives for them. As they learn, the machines will
+work out the details of how to meet those goals.
+
+The next layer represents how we organize and interpret data. Today’s databases do an excellent
+job of organizing information in columns and rows; tomorrow’s
+are being designed to manage huge volumes of different kinds of
+data, understand information in context, and crunch data in real
+time.
+
+Another major dimension is how to make use of data gathered through sensor technology.
+Today, we use rudimentary sensor technologies to perform useful
+tasks such as locating leaks in water systems. In the cognitive era,
+sensors and pattern-recognition software will augment our senses,
+making us hyper-aware of the world around us.
+
+
+The next layer represents the design of systems—how we fit
+together all the physical components that make up a computer.
+The challenge here is creating data-centric computers. The designers of computing systems have
+long treated logic and memory as separate elements. Now, they
+will meld the components together, first, on circuit boards and,
+later, on single microchips. Also, they’ll move the processing to the
+data, rather than visa versa.
+
+Finally, in the innermost layer is nanotechnology, where we
+manipulate matter at the molecular and atomic scale. To overcome the limits of today’s microchip
+technology, scientists must shift to new nanomaterials and new
+approaches to switching from one digital state to another.
+Possibilities include harnessing quantum mechanics or chips
+driven by “synapses and neurons” for data processing.
+
+--A New Culture of Innovation: We’re still in the early stages of the emergence of this new era
+of computing. Progress will require a willingness to make big bets,
+take a long-term view, and engage in open collaboration. An
+absolutely critical aspect of the culture of innovation will be the
+ambition and capabilities of the inventors themselves. For rapid
+progress to be made in the new era of computing, young people
+must be inspired to become scientists, and they must be educated
+by teachers using superior tools and techniques. They have to
+be rewarded and given opportunities to challenge everything we
+think we know about how the world works. It requires dedication
+and investment by all of society’s institutions, including families,
+local communities, governments, universities, and businesses.
+
